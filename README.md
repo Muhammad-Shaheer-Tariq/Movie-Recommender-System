@@ -33,7 +33,7 @@ Cosine-Similarity/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Muhammad-Shaheer-Tariq/Movie-Recommender-System.git>
 cd Cosine-Similarity
 ```
 
